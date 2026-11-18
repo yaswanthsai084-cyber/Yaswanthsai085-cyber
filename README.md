@@ -1,77 +1,76 @@
-# Yaswanthsai085-cyberSai Durga Yaswanth
+Hi, I'm Sai Durga Yaswanth 👋
 
-Computer Engineering Student | Aspiring Software Developer
+<div align="center">Computer Engineering Diploma Student | Aspiring Software Developer
+
+Web Development · Software Engineering · AI/ML · Android · Data Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Development;Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+Node.js;Python+%7C+Django+%7C+Databases;Learning+Today%2C+Building+Tomorrow" alt="Developer Typing Animation" />
-</p><p align="center">
+  <a href="https://www.linkedin.com/in/sai-durga-yaswanth-839178433/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/saidurgayaswanth?fqnt=cm00ZWJvZXI3aHZ5">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100082624106510">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
   <a href="https://github.com/yaswanthsai084-cyber">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-0E9F6E?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>---
+</p><img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_to-Learning_%26_Collaboration-2ea44f?style=flat-square" /></div>---
 
-Professional Summary
+👨‍💻 About Me
 
-I am Sai Durga Yaswanth, a final-year Diploma student in Computer Engineering at Andhra Polytechnic, Kakinada, Andhra Pradesh, India.
+I'm a final-year Computer Engineering Diploma student at Andhra Polytechnic, Kakinada, passionate about software development and building practical technology solutions.
 
-I am an aspiring software developer with a strong interest in web development, software engineering, database technologies, and emerging technologies. I enjoy designing and developing practical applications that combine functionality, performance, and user-friendly interfaces.
-
-My technical interests include frontend development, backend development, database design, and application development. I continuously work on improving my programming knowledge through hands-on projects and practical learning.
-
-I also have industrial training experience at the National Informatics Centre (NIC), Kakinada, which has helped me gain exposure to professional IT environments and software development practices.
+- I enjoy developing full-stack web applications and exploring modern technologies.
+- I have experience working with frontend development, databases, and programming concepts.
+- I have industrial training experience at the National Informatics Centre (NIC), Kakinada.
+- I continuously improve my programming and problem-solving skills.
+- I am learning to design and develop reliable software applications.
+- I use Git and GitHub to manage, document, and share my projects.
+- My goal is to become a skilled and versatile Software Engineer.
 
 ---
 
-Technical Expertise
-
-Programming Languages
+🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,javascript" />
-</p>Frontend Development
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,nextjs,tailwind,nodejs,express,django,mysql,mongodb,postgresql,git,github,vscode,figma,linux" />
+</p>📚 Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>Database Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>Development Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,aws" />
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nextjs,nodejs,java,linux" />
 </p>---
 
-Professional Experience
+🎯 Current Focus
 
-Industrial Training – National Informatics Centre (NIC), Kakinada
-
-Domain: Information Technology & Web Development
-
-- Gained practical exposure to a professional IT working environment.
-- Developed an understanding of web development workflows.
-- Explored practical applications of software development technologies.
-- Improved technical knowledge through industrial training.
+- Python programming and Object-Oriented Programming.
+- C programming and logical problem-solving.
+- Data Structures and Algorithms.
+- JavaScript, React.js and Next.js development.
+- Node.js and backend development.
+- SQL and database management.
+- Git and GitHub workflow.
+- Data Analytics and practical applications.
+- Building real-world software projects.
+- Improving programming and problem-solving skills.
 
 ---
 
-Featured Projects
+🚀 Featured Projects
 
-01. East Godavari Tourism Website
+Project| Description| Technologies| Status
+🌍 East Godavari Tourism| Responsive tourism website showcasing destinations, culture, spirituality and tourist services of East Godavari.| React.js, JavaScript, HTML, CSS| Completed
+🎮 CodeArena| Interactive programming learning platform featuring game-based coding challenges and programming education.| React.js, JavaScript, HTML, CSS| Under Development
+🏢 FlexiOffice| Desk, meeting room, office floor and parking reservation management system.| Next.js, Node.js, Express.js, MongoDB| Planned / In Development
 
-Category: Web Development
+---
 
-A responsive tourism website developed to showcase the tourism destinations, cultural heritage, spiritual attractions, and visitor services of East Godavari district.
+💡 Project Highlights
 
-Key Features
+🌍 East Godavari Tourism
 
 - Tourist destinations and attractions.
 - Cultural heritage and spiritual tourism.
@@ -80,36 +79,7 @@ Key Features
 - Health services and emergency helplines.
 - Responsive desktop and mobile interfaces.
 
-Technology Stack: React.js, JavaScript, HTML5, CSS3.
-
----
-
-02. AI Resume Analyzer Pro
-
-Category: AI-Powered Web Application
-
-An AI-powered web application designed to analyze resumes, evaluate ATS compatibility, and provide intelligent career improvement suggestions.
-
-Key Features
-
-- Automated resume analysis.
-- ATS compatibility scoring.
-- Resume improvement recommendations.
-- AI-based resume rewriting.
-- Job matching functionality.
-- Cover letter generation.
-
-Technology Stack: Python, Django, MySQL, HTML5, CSS3, JavaScript.
-
----
-
-03. CodeArena
-
-Category: Educational Technology
-
-An interactive programming education platform focused on making coding more engaging through game-based learning and interactive programming challenges.
-
-Planned Features
+🎮 CodeArena
 
 - Interactive programming lessons.
 - Game-based coding challenges.
@@ -117,82 +87,39 @@ Planned Features
 - Coding exercises and problem-solving.
 - AI-assisted learning features.
 
-Technology Stack: React.js, JavaScript, HTML5, CSS3.
+🏢 FlexiOffice Desk & Meeting Room Flex-Booking System
 
-Development Status: Currently Under Development.
-
----
-
-04. ITI Database Management Analysis
-
-Category: Database Analysis
-
-An analytical study of the existing ITI admission database, focusing on its structure, organization, relationships, and admission-related data flow.
-
-Key Areas
-
-- Database structure analysis.
-- Tables and records examination.
-- Database relationships.
-- Student application data.
-- Admission process data flow.
-
-Focus: Database Concepts, SQL and Database Analysis.
+- Employee dashboard.
+- Office desk reservations.
+- Meeting room and conference hall bookings.
+- Building and floor management.
+- Parking slot reservations.
+- Booking management and availability tracking.
 
 ---
 
-Current Learning & Development
+📊 GitHub Stats
 
-I continuously expand my technical knowledge and explore technologies that help me build better software applications.
+<div align="center"><img width="95%" src="https://github-readme-stats.vercel.app/api?username=yaswanthsai084-cyber&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" /><br/><img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthsai084-cyber&layout=compact&theme=github_dark&hide_border=true" /><br/><img width="95%" src="https://streak-stats.demolab.com?user=yaswanthsai084-cyber&theme=github-dark-blue&hide_border=true" /></div>---
 
-Area| Technologies
-Web Development| React.js, Next.js
-Backend Development| Node.js, Express.js, Django
-Programming| C, Python, JavaScript
-Databases| MySQL, MongoDB, PostgreSQL
-Data Analytics| Excel, SQL, Python, Power BI
-Cloud Computing| AWS Fundamentals
-Tools| Git, GitHub, VS Code, Postman
+🏆 GitHub Contributions
 
----
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=yaswanthsai084-cyber&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" width="95%" /></div>---
 
-GitHub Analytics
+🌐 Connect With Me
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yaswanthsai084-cyber&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthsai084-cyber&layout=compact&theme=github_dark&hide_border=true" />
-</p><p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=yaswanthsai084-cyber&theme=github-dark-blue&hide_border=true" />
-</p>---
+<div align="center"><a href="https://github.com/yaswanthsai084-cyber">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="https://www.linkedin.com/in/sai-durga-yaswanth-839178433/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="https://www.instagram.com/saidurgayaswanth?fqnt=cm00ZWJvZXI3aHZ5">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a><a href="https://www.facebook.com/profile.php?id=100082624106510">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a></div>---
 
-Career Objectives
+<div align="center">"Learning continuously. Building consistently. Improving every day."
 
-- Develop expertise in full-stack software development.
-- Build scalable, secure, and maintainable applications.
-- Strengthen programming and problem-solving abilities.
-- Gain practical experience in software engineering.
-- Explore Artificial Intelligence and Data Analytics.
-- Contribute to collaborative and open-source projects.
-- Continuously adapt to emerging technologies.
+⭐ Thanks for visiting my GitHub profile!
 
----
-
-Connect With Me
-
-<p align="center">
-  <a href="https://github.com/yaswanthsai084-cyber">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>---
-
-<p align="center">
-  <b>Building solutions through code, creativity, and continuous learning.</b>
-  <br/>
-  <i>Thanks for visiting my GitHub profile!</i>
-</p>
+</div>
